@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Miriam Nwabuaso",
+    "occupation": "Software Developer",
+    "description": "Frontend React Developer by Day, Freelancer by Night. #Stunts Dev",
+    "image": "photgenic.jpg",
+    "bio": "My name is Miriam, I'm a Frontend ReactJS Developer. Currently I'm working as freelance and happy to resolve code issues ",
+    "contactmessage": "Get in touch with me to receive further details, questions related codes.",
+    "email": "mgemma424@gmail.com",
+    "phone": "+234 813 928 6029",
+    "resumeDownload": "https://drive.google.com/uc?export=download&id=1VeTHGx0PrUFTNCjTlSxizBN67mwB3OBE",
+    "address": {
+      "street": "14, Williams Gbagada",
+      "city": "Lagos",
+      "state": "Nigeria"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gem.miriam.3",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/miriam-nwabuaso-4b48aa7b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gemchinua/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/keta-dev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I design my work using figma, and build the app with recent industry technologies such React + Redux",
+    "education": [
+      {
+        "school": "Nnamdi Azikiwe University",
+        "degree": "Bachelor's in Engineering",
+        "graduated": "B.Engr"
+      }
+    ],
+    "work": [
+      {
+        "company": "ETeam Technology",
+        "title": "Team Member",
+        "years": "October 2022 - Present",
+        "description": "Our goal is to create, manage, execute, and deliver excellent products and services in the ICT field."
+      },
+      {
+        "company": "Travoofy",
+        "title": "Front End Engineer",
+        "years": "April 2021 - September 2022",
+        "description": "Travoofy is a top online travel agency that provides flight and hotel bookings, visa assistance, tour packages, travel financing, protocol services, airport pickups, and any other travel necessities you could need."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "80%"
+      },
+      {
+        "name": "Next.js",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Travoofy",
+        "category": "Travel App (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "travel.png",
+        "url": "https://www.travoofy.com/flight"
+      },
+      {
+        "title": "E-Shopping",
+        "category": "E-Shopping Site (PayPal, ReactJS, Google API)",
+        "image": "ecommerce-image.jpg",
+        "url": "https://phone-appy.netlify.app/"
+      },
+      {
+        "title": "Create Ensemble",
+        "category": "Create Art (PayPal, NextJS, Graphql, Css)",
+        "image": "create-art.png",
+        "url": "https://www.createensemble.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Miriam is a passionate developer and disposes an attitude to learn and growth simultaneously.",
+        "user": "Maureen Ajagba"
+      },
+      {
+        "text": "That Miriam Nwabuaso must be one of the most brilliant developers I've ever met!. I am very confident that she will be one of your best developers in no time!",
+        "user": "Nte Matthew"
+      }
+    ]
+  }
+}
